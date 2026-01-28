@@ -19,7 +19,7 @@
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/yourusername/fc-zenit-ais.git
+git clone https://github.com/MrGorenkov/fc-zenit-ais.git
 cd fc-zenit-ais
 
 # Установи зависимости
